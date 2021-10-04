@@ -48,16 +48,16 @@
 <h2>𝒞𝑜𝓃𝓉𝒶𝒸𝓉</h2>
 
 <div>
-  <a href="https://www.linkedin.com/in/JohnEmerson1406/" target="_blank">
+  <a href="https://www.linkedin.com/in/tarun-bisht-38724b201/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://instagram.com/JohnEmerson1406" target="_blank">
+  <a href="https://instagram.com/tarunbisht_24" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://discord.gg/JohnEmerson1406#0587" target="blank">
+  <a href="https://discord.gg/BUjj#0001" target="blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="JohnEmerson1406#0587">
   </a>
-  <a href="mailto:john.carv.sousa@gmail.com">
+  <a href="mailto:bishttarun2002@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
