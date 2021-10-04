@@ -12,10 +12,10 @@
 
 <ul>
   <li>🔭 I’m currently working on something cool 🚀!</li>
-  <li>🌱 I’m currently learning <b>Flutter, React, Vue.js and Ruby on Rails</b>.</li>
-  <li>📫 How to reach me: <b><a href="mailto:john.carv.sousa@gmail.com">john.carv.sousa@gmail.com</a></b></li>
+  <li>🌱 I’m currently learning <b>DSA, Open Source, React and something many more</b>.</li>
+  <li>📫 How to reach me: <b><a href="mailto:bishttarun2002@gmail.com">bishttarun2002@gmail.com</a></b></li>
   <li>😄 Pronouns: He/Him</li>
-  <li>⚡ Fun fact: I play guitar <img alt="guitar" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/htc/37/guitar_1f3b8.png" width="16px"></li>
+  <li>⚡ Fun fact: I play cricket <img alt="guitar" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/htc/37/guitar_1f3b8.png" width="16px"></li>
 </ul>
 
 <br>
@@ -35,14 +35,10 @@
 <h2>𝒯𝑒𝒸𝒽𝓃𝑜𝓁𝑜𝑔𝒾𝑒𝓈 𝒶𝓃𝒹 𝒯𝑜𝑜𝓁𝓈</h2>
 
 <div style="display: inline_block">
-  <img align="center" alt="John-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="John-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="John-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="John-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="John-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="John-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="John-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="John-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
 </div>
 
 <h2>𝒞𝑜𝓃𝓉𝒶𝒸𝓉</h2>
