@@ -33,4 +33,4 @@ I am a 2nd-year Undergaduate Student at Chandigarh Unviersity, pursuing a Bachel
 
 ----
 
-⭐️ From [samujjwaal](https://github.com/samujjwaal)
+⭐️ From [Tarun Bisht](https://github.com/tarunbisht-24)
