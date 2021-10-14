@@ -1,4 +1,4 @@
-## Hi there, I'm Samujjwaal 👋🏼👨🏻‍💻
+## Hi there, I'm Tarun Bisht 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sdey9@uic.edu "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")
@@ -8,7 +8,7 @@
 
 <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 
-I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursuing a Masters in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I am a 2nd-year Undergaduate Student at Chandigarh Unviersity, pursuing a Bachelors in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
 - 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning) and Functional programming
 - 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
@@ -28,10 +28,8 @@ I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursu
 [![DEV Badge](https://img.shields.io/badge/-samujjwaal-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/samujjwaal)
 [![StackOverflow Badge](https://img.shields.io/badge/-daftdey-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/12843322/daftdey?tab=profile)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/daftdey/)
-[![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/daftdey)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/22ydzsykc57ailqsqbn4ycwsq)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/SamujjwaalDeyJEDI/playlists)
-[![Reddit Badge](https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/daftdey/ "Find on Reddit")
 
 ----
 
