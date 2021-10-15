@@ -21,12 +21,10 @@ I am a 2nd-year Undergaduate Student at Chandigarh Unviersity, pursuing a Bachel
 ## Some of my Github Public Stats
 
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=tarunbisht-24&show_icons=true&theme=radical&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api?username=tarunbisht-24&show_icons=true&theme=radical&line_height=33 &nbsp; &nbsp;">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tarunbisht-24&hide_langs_below=.25&theme=radical">
 </p>
 
-
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=tarunbisht-24&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/tarunbisht-24)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tarunbisht-24l&color=blue)
 
