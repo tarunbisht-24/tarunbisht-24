@@ -51,4 +51,5 @@ I am a 2nd-year Undergaduate Student at Chandigarh Unviersity, pursuing a Bachel
 
 ⭐️ From [Tarun Bisht](https://github.com/tarunbisht-24)
 <br>
+<br>
 [![Profile last updated](https://img.shields.io/github/last-commit/samujjwaal/samujjwaal/master?label=Last%20updated&style=flat)](https://github.com/samujjwaal/samujjwaal/commits)
