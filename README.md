@@ -34,8 +34,8 @@ I am a 2nd-year Undergaduate Student at Chandigarh Unviersity, pursuing a Bachel
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="140"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="140"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="140"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="140"/> <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="140"/> 
 </p>
 
-<br>
 ## Find me around the web :globe_with_meridians:
+<br>
 [![DEV Badge](https://img.shields.io/badge/-samujjwaal-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/samujjwaal)
 [![StackOverflow Badge](https://img.shields.io/badge/-daftdey-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/12843322/daftdey?tab=profile)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/tarunbisht_24/)
