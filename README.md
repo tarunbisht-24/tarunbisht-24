@@ -29,6 +29,10 @@ I am a 2nd-year Undergaduate Student at Chandigarh Unviersity, pursuing a Bachel
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tarunbisht-24l&color=blue)
 
+<p>
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="120"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="120"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="120"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="120"/> <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="120"/> 
+</p>
+
 ## Find me around the web :globe_with_meridians:
 [![DEV Badge](https://img.shields.io/badge/-samujjwaal-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/samujjwaal)
 [![StackOverflow Badge](https://img.shields.io/badge/-daftdey-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/12843322/daftdey?tab=profile)
@@ -38,13 +42,10 @@ I am a 2nd-year Undergaduate Student at Chandigarh Unviersity, pursuing a Bachel
 
 ----
 
-<p>
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="100"/> <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="100"/> 
-</p>
-
 <div>
   <h3>Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 
 <p>Visit my profile and give a ⭐️ if you like it</p>
-⭐️ From <a href="(https://github.com/tarunbisht-24">Tarun Bisht</a>
+
+⭐️ From [samujjwaal](https://github.com/samujjwaal)
