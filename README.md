@@ -28,11 +28,13 @@ I am a 2nd-year Undergaduate Student at Chandigarh Unviersity, pursuing a Bachel
 <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tarunbisht-24l&color=blue)
+<br>
 
 <p>
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="140"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="140"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="140"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="140"/> <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="140"/> 
 </p>
 
+<br>
 ## Find me around the web :globe_with_meridians:
 [![DEV Badge](https://img.shields.io/badge/-samujjwaal-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/samujjwaal)
 [![StackOverflow Badge](https://img.shields.io/badge/-daftdey-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/12843322/daftdey?tab=profile)
