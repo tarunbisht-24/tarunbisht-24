@@ -36,8 +36,9 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 
 ## Find me around the web :globe_with_meridians:
 
-[![iTunes Badge](https://img.shields.io/badge/-iTunes-C13584?style=flat&logo=iTunes&logoColor=white)](https://music.apple.com/in/playlist/duh/pl.u-EdAVklrIDdxoprY)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/tarunbisht_24/)
+[![Discord Badge](https://img.shields.io/badge/-Discord-FF0000?style=flat&logo=Discord&logoColor=white)]("https://discordapp.com/users/Bujj#2750/")
+[![iTunes Badge](https://img.shields.io/badge/-iTunes-C13584?style=flat&logo=iTunes&logoColor=white)](https://music.apple.com/in/playlist/duh/pl.u-EdAVklrIDdxoprY)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQvMx0IMgE02-gMTN8W4zog)
 
@@ -50,6 +51,3 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <p>Visit my profile and give a ⭐️ if you like it</p>
 
 ⭐️ From [Tarun Bisht](https://github.com/tarunbisht-24)
-<br>
-<br>
-[![Profile last updated](https://img.shields.io/github/last-commit/samujjwaal/samujjwaal/master?label=Last%20updated&style=flat)](https://github.com/samujjwaal/samujjwaal/commits)
