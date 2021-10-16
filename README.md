@@ -54,4 +54,4 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <br>
 <br>
 
-[![Profile last updated]("https://github.com/tarunbisht-24/tarunbisht_24/commits/master")
+[![Profile last updated]("https://github.com/tarunbisht-24/tarunbisht_24/commits/master")]("https://img.shields.io/github/last-commit/tarunbisht-24/tarunbisht_24")
