@@ -6,7 +6,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-@tarunbisht_24-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/tarunbisht_24 "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@tarunbisht-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tarunbisht "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-tarunbisht-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/tarunbisht "Connect on Facebook")
-[![Whatsapp Badge](https://img.shields.io/badge/-Tarun Bisht-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/phone-no?text=Hi!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Tarun Bisht-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9872779838?text=Hi!)
 
 <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 
