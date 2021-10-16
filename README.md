@@ -12,7 +12,7 @@
 
 I am a 2nd-year Undergaduate Student at Chandigarh Unviersity, pursuing a Bachelors in Computer Science, who is passionate about Open Source, Web Development and Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
-- 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning) and DSA
+- 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning) and [DSA](https://www.coursera.org/specializations/data-structures-algorithms)
 - 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
 - 📫 How to reach me: Use any of the [badges](#hi-there-im-samujjwaal-) above
@@ -31,7 +31,7 @@ I am a 2nd-year Undergaduate Student at Chandigarh Unviersity, pursuing a Bachel
 ![Profile Views](https://komarev.com/ghpvc/?username=tarunbisht-24l&color=blue)
 
 <p>
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="140"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="140"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="140"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="140"/> <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="140"/> 
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="120"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="120"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="120"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="120"/> <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="120"/> 
 </p>
 
 ## Find me around the web :globe_with_meridians:
