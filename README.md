@@ -6,7 +6,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-@tarunbisht_24-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/tarunbisht_24 "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@tarunbisht-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tarunbisht "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-tarunbisht-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/tarunbisht "Connect on Facebook")
-[![Whatsapp Badge](https://img.shields.io/badge/-Tarun Bisht-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9872779838?text=Hi!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Tarun Bisht-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/phone-no?text=Hi!)
 
 <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 
@@ -35,7 +35,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 </p>
 
 ## Find me around the web :globe_with_meridians:
-[![Apple Music](https://img.shields.io/badge/-Twitter-C13584?style=flat&logo=Twitter&logoColor=white)](https://www.instagram.com/tarunbisht_24/)
+[![Twitter](https://img.shields.io/badge/-Twitter-C13584?style=flat&logo=Twitter&logoColor=white)](https://www.instagram.com/tarunbisht_24/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/tarunbisht_24/)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQvMx0IMgE02-gMTN8W4zog)
