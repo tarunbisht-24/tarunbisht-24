@@ -22,6 +22,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 ## Some of my Github Public Stats
 
 <p>
+  [![Tarun's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tarunbisht_24&theme=xcode)](https://git.io/tarunbisht_24)
   <img src = "https://github-readme-stats.vercel.app/api?username=tarunbisht-24&show_icons=true&theme=radical&line_height=33 &nbsp; &nbsp;">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tarunbisht-24&hide_langs_below=.25&theme=radical">
 </p>
