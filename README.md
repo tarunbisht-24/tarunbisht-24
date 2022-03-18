@@ -19,6 +19,21 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
 
+### <h2 align="center">[Open Source Gallery📚](https://astrodevil.github.io/Open-Source-Gallery/)</h2>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Astrodevil&theme=dracula&hide_border=true)
+
+## My Experiences🙌🏼
+
+- [GSSOC'21 Participant](https://github.com/Astrodevil/Astrodevil/blob/main/src/Certificate%20-%20Amitesh%20Anand.png): Contributed to some projects, mainly based on Web Development.
+- [DWoC'21 Participant](https://dwoc.io/): Helped contributors to collaborate on projects during 2 months period.
+- [Hacktoberfest-2021](https://hacktoberfest.digitalocean.com/): Participated as maintainer.
+- [MLH Hackathons](https://mlh.io/): Participated in [Local Hack Day: Build](https://organize.mlh.io/participants/events/6072-local-hack-day-build) and [Local Hack Day: Share](https://organize.mlh.io/participants/events/6430-local-hack-day-share).
+- [GoogleCloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/enrol-in-the-program/#content): Completed Labs and challenges in [Qwiklabs](https://www.qwiklabs.com/public_profiles/f3d65b58-4359-4795-96da-1241061ad207).
+
+[<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>]:#
+
+
 ## Some of my Github Public Stats
 
 <p>
@@ -33,6 +48,10 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <p>
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="130"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="130"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="130"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="130"/> <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="130"/> 
 </p>
+
+<p><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunbisht-24&theme=highcontrast&hide_border=true" alt="astrodevil" />
+</p>
+
 
 ## Find me around the web :globe_with_meridians:
 
