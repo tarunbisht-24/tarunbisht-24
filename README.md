@@ -1,14 +1,14 @@
 ## Hi there, I'm Tarun Bisht 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-bishttarun2002@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bishttarun2002@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Tarun%20Bisht-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-bisht-38724b201![image](https://user-images.githubusercontent.com/77788209/137367934-e0bb2155-b7d4-4c2d-a5b0-b1ebc9585e63.png "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-bisht-38724b201/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@tarunbisht_24-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/tarunbisht_24 "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@tarunbisht_24-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tarunbisht_24 "Follow on Twitter")
 [![Whatsapp Badge](https://img.shields.io/badge/-Tarun-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9872779838?text=Hi!)
 
-<a href="https://github.com/tarunbisht-24/"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/master/Memoji Images/python.png" align="right" height="200" /></a>
+<a href="https://github.com/tarunbisht-24/"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/Memoji Images/python.png" align="right" height="200" /></a>
 
-I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuchd.in/), pursuing my Bachelors in Computer Science, who is passionate about Open Source :octocat:, Web Development :8ball:, Artificial Intelligence :robot:, Machine Learning :man_technologist: and Competitive Coding 🙃:. I love to learn new stuff related to tech and contribute in any and every possible way.
+I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuchd.in/), pursuing my Bachelors in Computer Science, who is passionate about Open Source :octocat:, Web Development :atom:, Artificial Intelligence 🤖, Machine Learning 👨‍💻 and Competitive Coding  📊. I love to learn new stuff related to tech and contribute in any and every possible way.
 
 - 🌱 I’m currently learning [Web Development](https://www.udemy.com/course/the-web-developer-bootcamp/) and [DSA](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 - 👯 I’m looking to collaborate on any Web Development project which seems interesting or useful
@@ -17,7 +17,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
 
-### <h2 align="center">Graph tf u expected</h2>
+### <h2 align="center">My Contribution Graph</h2>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tarunbisht-24&theme=dracula&hide_border=true)
 
 ## My Experiences🙌🏼
@@ -40,7 +40,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunbisht-24&theme=highcontrast&hide_border=true" alt="tarunbisht-24"/>
 </p>
 
-<a href="https://github.com/tarunbisht-24/"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/master/Memoji Images/coffee.png" align="right" height="275" /></a>
+<a href="https://github.com/tarunbisht-24/"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/Memoji Images/coffee.png" align="right" height="275" /></a>
 
 
 
