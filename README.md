@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Tarun%20Bisht-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-bisht-38724b201![image](https://user-images.githubusercontent.com/77788209/137367934-e0bb2155-b7d4-4c2d-a5b0-b1ebc9585e63.png)
  "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@tarunbisht_24-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/tarunbisht_24 "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-@tarunbisht-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=TarunBi13518885 "Follow on Twitter")
+[![Twitter Badge](https://img.shields.io/badge/-@tarunbisht-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tarunbisht_24 "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-tarunbisht-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/tarunbisht "Connect on Facebook")
 [![Whatsapp Badge](https://img.shields.io/badge/-Tarun-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9872779838?text=Hi!)
 
