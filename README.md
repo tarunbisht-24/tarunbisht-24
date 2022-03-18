@@ -40,7 +40,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunbisht-24&theme=highcontrast&hide_border=true" align="center" alt="tarunbisht-24"/>
 </p>
 
-<a href="https://github.com/tarunbisht-24/"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/Memoji Images/coffee.png" align="right" height="275" /></a>
+<a href="https://github.com/tarunbisht-24/"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/Memoji Images/laptop.png" align="right" height="275" /></a>
 
 
 
@@ -54,7 +54,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 
 ## Find me around the web :globe_with_meridians:
 
-<a href="https://github.com/tarunbisht-24"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/Memoji Images/laptop.jpg" align="right" height="150" /></a>
+<a href="https://github.com/tarunbisht-24"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/Memoji Images/python.png" align="right" height="150" /></a>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/tarunbisht_24/)
 [![Discord Badge](https://img.shields.io/badge/-Discord-0078FF?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Bujj#2750/)
