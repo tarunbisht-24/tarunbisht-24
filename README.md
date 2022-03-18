@@ -37,7 +37,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=tarunbisht-24&show_icons=true&theme=radical&line_height=33 &nbsp; &nbsp;">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tarunbisht-24&hide_langs_below=.25&theme=radical">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunbisht-24&theme=highcontrast&hide_border=true" alt="tarunbisht-24" align = "center"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunbisht-24&theme=highcontrast&hide_border=true" align="right" alt="tarunbisht-24"/>
 </p>
 
 <a href="https://github.com/tarunbisht-24/"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/Memoji Images/coffee.png" align="right" height="275" /></a>
@@ -54,11 +54,11 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 
 ## Find me around the web :globe_with_meridians:
 
-<a href="https://github.com/tarunbisht-24"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/Memoji Images/laptop.png" align="right" height="150" /></a>
+<a href="https://github.com/tarunbisht-24"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/Memoji Images/laptop.jpg" align="right" height="150" /></a>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/tarunbisht_24/)
 [![Discord Badge](https://img.shields.io/badge/-Discord-0078FF?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Bujj#2750/)
-[![iTunes Badge](https://img.shields.io/badge/-iTunes-EA4CC0?style=flat&logo=iTunes&logoColor=white)](https://music.apple.com/in/playlist/duh/pl.u-EdAVklrIDdxoprY)
+[![iTunes Badge](https://img.shields.io/badge/-iTunes-FF2B4B?style=flat&logo=iTunes&logoColor=white)](https://music.apple.com/in/playlist/duh/pl.u-EdAVklrIDdxoprY)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQvMx0IMgE02-gMTN8W4zog)
 
