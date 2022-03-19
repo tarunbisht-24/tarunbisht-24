@@ -8,7 +8,7 @@
 
 <a href="https://github.com/tarunbisht-24/"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/Memoji Images/welcome.png" align="right" height="200" /></a>
 
-I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuchd.in/), pursuing my Bachelors in Computer Science, who is passionate about Open Source  :octocat:, Web Development  :atom:, Artificial Intelligence 🤖, Machine Learning 👨‍💻 and Competitive Coding 📊. I love to learn new stuff related to tech and contribute in any and every possible way.
+I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuchd.in/), pursuing my Bachelors in Computer Science, who is passionate about Open Source :octocat:, Web Development :atom:, Artificial Intelligence 🤖, Machine Learning 👨‍💻 and Competitive Coding 📊. I love to learn new stuff related to tech and contribute in any and every possible way.
 
 - 🌱 I’m currently learning [Web Development](https://www.udemy.com/course/the-web-developer-bootcamp/) and [DSA](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 - 👯 I’m looking to collaborate on any Web Development project which seems interesting or useful
@@ -24,7 +24,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 
 ### Languages✍🏼
 
-<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/35/000000/css3.png"/> <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/35/000000/python-logo--v2.png"/>
+<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/35/000000/css3.png"/> <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/35/000000/python.png"/>
 
 ### DevOps & Cloud Tools⚒️
 
@@ -33,8 +33,8 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 ## My Experiences🙌🏼
 
 - [GSSOC'21 Participant](https://github.com/Astrodevil/Astrodevil/blob/main/src/Certificate%20-%20Amitesh%20Anand.png): Contributed to some projects, mainly based on Web Development.
-- [DWoC'21 Participant](https://dwoc.io/): Helped contributors to collaborate on projects during 2 months period.
-- [Hacktoberfest-2021](https://hacktoberfest.digitalocean.com/): Participated as maintainer.
+- [DWoC'21 Participant](https://dwoc.io/): Contributed in various projects especailly realted to Web Dev during 2 months period.
+- [Hacktoberfest-2021&2022](https://hacktoberfest.digitalocean.com/): Participated as contributor and maintainer.
 - [MLH Hackathons](https://mlh.io/): Participated in [Local Hack Day: Build](https://organize.mlh.io/participants/events/6072-local-hack-day-build) and [Local Hack Day: Share](https://organize.mlh.io/participants/events/6430-local-hack-day-share).
 - [GoogleCloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/enrol-in-the-program/#content): Completed Labs and challenges in [Qwiklabs](https://www.qwiklabs.com/public_profiles/27c0ba2b-577b-4d32-a506-64591e89e383).
 
@@ -50,7 +50,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunbisht-24&theme=highcontrast&hide_border=true" alt="tarunbisht-24"/>
 </p>
 
-<a href="https://github.com/tarunbisht-24/"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/Memoji Images/laptop.png" align="right" height="275" /></a>
+<a href="https://github.com/tarunbisht-24/"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/Memoji Images/coffee.png" align="right" height="275" /></a>
 
 
 
