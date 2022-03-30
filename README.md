@@ -33,7 +33,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 ## My Experiences🙌🏼
 
 - [GSSOC'21 Participant](https://gssoc.girlscript.tech/): Contributed to some projects, mainly based on Web Development.
-- [DWoC'21 Participant](https://dwoc.io/): Contributed in various projects mainly related to Web Dev field during 2 months period.
+- [GWOC'21 Participant](https://github.com/tarunbisht-24/tarunbisht-24/blob/1b8bd67ce8bd631c43d2b283fec091105fe6a7d4/Memoji%20Images/GWOC_PARTICIPATION_CERTIFICATE.pdf): Contributed in various projects specially related to Web Dev field during 2 months of period.
 - [Hacktoberfest-2021&2022](https://hacktoberfest.digitalocean.com/): Participated as contributor and maintainer.
 - [MLH Hackathons](https://mlh.io/): Participated in [Local Hack Day: Build](https://organize.mlh.io/participants/events/6072-local-hack-day-build) and [Local Hack Day: Share](https://organize.mlh.io/participants/events/6430-local-hack-day-share).
 - [GoogleCloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/enrol-in-the-program/#content): Completed Labs and challenges in [Qwiklabs](https://www.qwiklabs.com/public_profiles/27c0ba2b-577b-4d32-a506-64591e89e383).
