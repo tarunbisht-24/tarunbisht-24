@@ -26,20 +26,24 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 
 ### Languages✍🏼
 
-<img width="50px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/>
-<img width="50px" src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png" title="C++"/>
-<img width="50px" src="https://img.icons8.com/color/35/000000/python.png" title="Python"/>
-<img width="50px" src="https://img.icons8.com/color/35/000000/html-5--v1.png" title="HTML5"/>
-<img width="50px" src="https://img.icons8.com/color/35/000000/css3.png" title="CSS3"/>
-<img width="50px" src="https://img.icons8.com/color/35/000000/javascript--v1.png" title="Javascript"/>
-<img width="50px" src="https://img.icons8.com/color/35/000000/bootstrap.png"/><a href="https://getbootstrap.com" target="_blank" title="C">
-<img width="50px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/>
-<img width="50px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/>
-<img width="50px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/>
+<img width="50px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" title="C"/>
+<img width="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" title="C++"/>
+<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python"/>
+<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML5"/>
+<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS3"/>
+<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="Javascript"/>
+<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/ title="Bootstrap">
+<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React"/>
+<img width="50px" src="https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png" title="Database"/>
+<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Nodejs"/>
 
 ### DevOps & Cloud Tools⚒️
 
-<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/35/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/35/000000/git.png"/> <img src="https://img.icons8.com/color/35/000000/github.png"/> 
+<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/35/000000/intellij-idea.png"/>
+<img src="https://img.icons8.com/color/35/000000/google-cloud.png"/>
+<img src="https://img.icons8.com/color/35/000000/git.png"/>
+<img src="https://img.icons8.com/color/35/000000/github.png"/>
 
 ## My Experiences🙌🏼
 
