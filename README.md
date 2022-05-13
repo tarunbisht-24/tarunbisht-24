@@ -66,8 +66,6 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 
 ## Find me around the web :globe_with_meridians:
 
