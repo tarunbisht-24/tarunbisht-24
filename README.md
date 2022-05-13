@@ -26,13 +26,16 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 
 ### Languages✍🏼
 
-<img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/> <img src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"/>
-<img width="40px" src="https://img.icons8.com/color/35/000000/python.png"/> <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/>
-<img width="40px" src="https://img.icons8.com/color/35/000000/css3.png"/> <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/>
-<img width="40px" src="https://img.icons8.com/color/35/000000/bootstrap.png"/> <a href="https://getbootstrap.com" target="_blank">
-<img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/>
-<img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/>
-<img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/>
+<img width="50px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/>
+<img width="50px" src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png" title="C++"/>
+<img width="50px" src="https://img.icons8.com/color/35/000000/python.png" title="Python"/>
+<img width="50px" src="https://img.icons8.com/color/35/000000/html-5--v1.png" title="HTML5"/>
+<img width="50px" src="https://img.icons8.com/color/35/000000/css3.png" title="CSS3"/>
+<img width="50px" src="https://img.icons8.com/color/35/000000/javascript--v1.png" title="Javascript"/>
+<img width="50px" src="https://img.icons8.com/color/35/000000/bootstrap.png"/><a href="https://getbootstrap.com" target="_blank" title="C">
+<img width="50px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/>
+<img width="50px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/>
+<img width="50px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/>
 
 ### DevOps & Cloud Tools⚒️
 
