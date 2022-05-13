@@ -30,7 +30,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 
 ### DevOps & Cloud Tools⚒️
 
-<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/35/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/35/000000/git.png"/> <img src="https://img.icons8.com/color/35/000000/github.png"/>
+<img width="50px" src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img width="50px" src="https://img.icons8.com/color/35/000000/intellij-idea.png"/> <img width="50px" src="https://img.icons8.com/color/35/000000/google-cloud.png"/> <img width="50px" src="https://img.icons8.com/color/35/000000/git.png"/> <img width="50px" src="https://img.icons8.com/color/35/000000/github.png"/>
 
 ## My Experiences🙌🏼
 
