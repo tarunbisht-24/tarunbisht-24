@@ -1,3 +1,5 @@
+<a href="https://github.com/tarunbisht-24/"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/img/header.png" align="right"/></a>
+
 ## Hi there, I'm Tarun Bisht 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-bishttarun2002@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bishttarun2002@gmail.com "Connect via Email")
@@ -6,7 +8,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@tarunbisht_24-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tarunbisht_24 "Follow on Twitter")
 [![Whatsapp Badge](https://img.shields.io/badge/-Tarun-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9872779838?text=Hi!)
 
-<!--<a href="https://github.com/tarunbisht-24/"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/Memoji Images/welcome.png" align="right" height="200" /></a>-->
+<!--<a href="https://github.com/tarunbisht-24/"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/img/welcome.png" align="right" height="200" /></a>-->
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -52,7 +54,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunbisht-24&theme=highcontrast&hide_border=true" alt="tarunbisht-24"/>
 </p>
 
-<a href="https://github.com/tarunbisht-24/"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/Memoji Images/coffee.png" align="right" height="275" /></a>
+<a href="https://github.com/tarunbisht-24/"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/img/coffee.png" align="right" height="275" /></a>
 
 
 
