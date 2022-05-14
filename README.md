@@ -1,5 +1,5 @@
-<a href="https://github.com/tarunbisht-24/"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/img/header.png" align="right"/></a>
-
+<img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/img/header.png" align="top" alt="header"/></a>
+<br>
 ## Hi there, I'm Tarun Bisht 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-bishttarun2002@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bishttarun2002@gmail.com "Connect via Email")
