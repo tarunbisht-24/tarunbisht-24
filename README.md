@@ -1,6 +1,7 @@
 <img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/img/header.png" align="top" alt="header"/>
 <br>
-## Hi there, I'm Tarun Bisht 👋🏼👨🏻‍💻
+
+### Hi there, I'm Tarun Bisht 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-bishttarun2002@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bishttarun2002@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Tarun%20Bisht-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-bisht-38724b201/ "Connect on LinkedIn")
