@@ -66,6 +66,12 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#722](https://github.com/arpit456jain/Amazing-Css-Effects/pull/722) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+2. 🗣 Commented on [#722](https://github.com/arpit456jain/Amazing-Css-Effects/issues/722) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+3. 💪 Opened PR [#722](https://github.com/arpit456jain/Amazing-Css-Effects/pull/722) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+4. 💪 Opened PR [#874](https://github.com/arpit456jain/Cool-Front-End-Templates/pull/874) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
+5. ❗️ Opened issue [#865](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/865) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
+<!--END_SECTION:activity-->
 
 
 ## Find me around the web :globe_with_meridians:
