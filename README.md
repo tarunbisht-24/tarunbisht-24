@@ -66,11 +66,11 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#772](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/772) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-2. ❗️ Opened issue [#753](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/753) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-3. ❌ Closed PR [#722](https://github.com/arpit456jain/Amazing-Css-Effects/pull/722) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
-4. 🗣 Commented on [#722](https://github.com/arpit456jain/Amazing-Css-Effects/issues/722) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
-5. 💪 Opened PR [#722](https://github.com/arpit456jain/Amazing-Css-Effects/pull/722) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+1. 💪 Opened PR [#1147](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1147) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. ❗️ Opened issue [#1146](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1146) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 💪 Opened PR [#772](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/772) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+4. ❗️ Opened issue [#753](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/753) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+5. ❌ Closed PR [#722](https://github.com/arpit456jain/Amazing-Css-Effects/pull/722) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
 <!--END_SECTION:activity-->
 
 
