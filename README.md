@@ -53,7 +53,6 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
   <img src = "https://github-readme-stats.vercel.app/api?username=tarunbisht-24&show_icons=true&theme=radical&line_height=33 &nbsp; &nbsp; &nbsp; &nbsp;">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tarunbisht-24&hide_langs_below=.25&theme=radical">
   <br>
-  <br>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunbisht-24&theme=highcontrast&hide_border=true" alt="tarunbisht-24"/>
 </p>
 
