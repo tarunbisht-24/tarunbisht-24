@@ -96,4 +96,5 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <br>
 [![Profile last updated](https://img.shields.io/github/last-commit/tarunbisht-24/tarunbisht_24/main?label=Last%20updated&style=flat)](https://github.com/tarunbisht-24/tarunbisht_24/commits)
 
-<!--[![Spotify](https://tarunbisht-24.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Bujj)-->
+### Spotify Playing 🎧
+[<img-src="https://now-playing-tarunbisht-24.vercel.app/api/spotify-playing" alt ="tarunbisht Spotify Playing" width="350"/>](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2)
