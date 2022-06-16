@@ -1,4 +1,14 @@
-<img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/img/header.png" align="top" alt="header"/>
+<!--<img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/img/header.png" align="top" alt="header"/>
+<br>-->
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Namaskar Bhaiyao!&center=true&size=27">
+  </a>
+</h1>
+
+<!-- 敲代码的图片 -->
+<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <br>
 
 ### Hi there, I'm Tarun Bisht 👋🏼👨🏻‍💻
@@ -22,8 +32,16 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
 
+<!-- GitHub Activity Graph -->
 ### <h2 align="center">My Contribution Graph</h2>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tarunbisht-24&theme=dracula&hide_border=true)
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tarunbisht-24&theme=dracula&hide_border=true)-->
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <img src="https://activity-graph.herokuapp.com/graph?username=tarunbisht-24&theme=xcode&bg_color=FF000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ## Technologies⚙️
 
