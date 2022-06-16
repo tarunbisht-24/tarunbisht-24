@@ -1,7 +1,7 @@
 <!-- Dynamic typing effects -->
 <h1 align="center">
   <a href="https://github.com/tarunbisht-24">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines= console.log(%22Hello%2C%20World!%22);Imjfgsbjg!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);!&center=true&size=27">
   </a>
 </h1>
 
@@ -54,7 +54,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 ![React](https://img.shields.io/badge/-React-1572B6?style=flat-square&logo=react)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![Database](https://img.shields.io/badge/-Database-1572B6?style=flat-square&logo=Database)
+<!--![Database](https://img.shields.io/badge/-Database-1572B6?style=flat-square&logo=Database)-->
 
 🧠 Plan to Study:
 
@@ -75,7 +75,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![Windows](https://img.shields.io/badge/Sublime-0078D6?style=flat-square&logo=sublime&logoColor=white)
+![Sublime](https://img.shields.io/badge/Sublime-0078D6?style=flat-square&logo=Sublime&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%23239120.svg?style=flat-square&logo=Google%20Cloud&logoColor=white)
