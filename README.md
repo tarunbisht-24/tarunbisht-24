@@ -41,7 +41,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 ![React](https://img.shields.io/badge/-React-1572B6?style=flat-square&logo=react)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![Database](https://img.shields.io/badge/-Database-%23217346.svg?style=style=flat-square&logo=database&logoColor=white)
+<!--![Database](https://img.shields.io/badge/-Database-%23217346.svg?style=style=flat-square&logo=database&logoColor=white)-->
 
 🧠 Plan to Study:
 
@@ -65,7 +65,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 ![Windows](https://img.shields.io/badge/Sublime-0078D6?style=flat-square&logo=sublime&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%23239120.svg?style=flat-square&logo=Goolge%20Cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%23239120.svg?style=flat-square&logo=Google%20Cloud&logoColor=white)
 
 <!-- Gif -->
 <div align="center">
@@ -76,9 +76,11 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
   <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
-  <img alt="git" src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="100" title="git"> 
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
 </div>
+
+<!-- profile-3d-contribution -->
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 ## My Experiences🙌🏼
 
@@ -139,3 +141,6 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-tarunbisht-24.vercel.app/api/spotify-playing" alt ="tarunbisht Spotify Playing" width="350"/>](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2)
+
+<!-- Snake code contribution diagram -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
