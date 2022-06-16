@@ -1,13 +1,11 @@
-<!--<img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/img/header.png" align="top" alt="header"/>
-<br>-->
-<!-- 动态打字效果 -->
+<!-- Dynamic typing effects -->
 <h1 align="center">
-  <a href="https://sunguoqi.com/">
+  <a href="https://github.com/tarunbisht-24">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27">
   </a>
 </h1>
 
-<!-- 敲代码的图片 -->
+<!-- Coding Gif -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <br>
 
@@ -18,8 +16,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-@tarunbisht_24-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/tarunbisht_24 "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@tarunbisht_24-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tarunbisht_24 "Follow on Twitter")
 [![Whatsapp Badge](https://img.shields.io/badge/-Tarun-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9872779838?text=Hi!)
-
-<!--<a href="https://github.com/tarunbisht-24/"><img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/img/welcome.png" align="right" height="200" /></a>-->
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -34,11 +30,10 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 
 <!-- GitHub Activity Graph -->
 ### <h2 align="center">My Contribution Graph</h2>
-<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tarunbisht-24&theme=dracula&hide_border=true)-->
 <table align="center">
   <tr>
     <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=tarunbisht-24&theme=xcode&bg_color=FF000000&hide_border=true" />
+      ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tarunbisht-24&theme=dracula&hide_border=true)
     </td>
   </tr>
 </table>
@@ -59,7 +54,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 ![React](https://img.shields.io/badge/-React-1572B6?style=flat-square&logo=react)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-<!--![Database](https://img.shields.io/badge/-Database-%23217346.svg?style=style=flat-square&logo=database&logoColor=white)-->
+![Database](https://img.shields.io/badge/-Database-1572B6?style=flat-square&logo=database)
 
 🧠 Plan to Study:
 
@@ -97,8 +92,15 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
 </div>
 
+<br>
+
+<!-- just img -->
+<img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/img/header.png" alt="just-img"/>
+
+<br>
+
 <!-- profile-3d-contribution -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/tarunbisht-24/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 ## My Experiences🙌🏼
 
@@ -161,4 +163,4 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 [<img src="https://now-playing-tarunbisht-24.vercel.app/api/spotify-playing" alt ="tarunbisht Spotify Playing" width="350"/>](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2)
 
 <!-- Snake code contribution diagram -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/tarunbisht-24/contribution-snake/github-contribution-grid-snake.svg" /></div>
