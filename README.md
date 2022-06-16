@@ -1,7 +1,7 @@
 <!-- Dynamic typing effects -->
 <h1 align="center">
   <a href="https://github.com/tarunbisht-24">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines= console.log(%22Hello%2C%20World!%22);Imjfgsbjg!&center=true&size=27">
   </a>
 </h1>
 
@@ -33,7 +33,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <table align="center">
   <tr>
     <td colspan="2">
-      ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tarunbisht-24&theme=dracula&hide_border=true)
+      <img src="https://activity-graph.herokuapp.com/graph?username=tarunbisht-24&theme=dracula&bg_color=FF000000&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -54,7 +54,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 ![React](https://img.shields.io/badge/-React-1572B6?style=flat-square&logo=react)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![Database](https://img.shields.io/badge/-Database-1572B6?style=flat-square&logo=database)
+![Database](https://img.shields.io/badge/-Database-1572B6?style=flat-square&logo=Database)
 
 🧠 Plan to Study:
 
@@ -100,7 +100,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <br>
 
 <!-- profile-3d-contribution -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/tarunbisht-24/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 ## My Experiences🙌🏼
 
@@ -163,4 +163,4 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 [<img src="https://now-playing-tarunbisht-24.vercel.app/api/spotify-playing" alt ="tarunbisht Spotify Playing" width="350"/>](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2)
 
 <!-- Snake code contribution diagram -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/tarunbisht-24/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/contribution-snake/github-contribution-grid-snake.svg" /></div>
