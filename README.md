@@ -95,7 +95,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <br>
 
 <!-- just img -->
-<img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/img/header.png" alt="just-img"/>
+<img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/src/header.png" alt="just-img"/>
 
 <br>
 
@@ -166,7 +166,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunbisht-24&theme=highcontrast&hide_border=true" alt="tarunbisht-24"/>
 </p>-->
 
-<img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/img/coffee.png" align="right" height="275" />
+<img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/src/coffee.png" align="right" height="275" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tarunbisht-24l&color=blue)
 
