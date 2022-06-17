@@ -75,10 +75,10 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-<!--![Sublime](https://img.shields.io/badge/Sublime-0078D6?style=flat-square&logo=Sublime&logoColor=white)-->
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%23239120.svg?style=flat-square&logo=Google%20Cloud&logoColor=white)
+<!--![Sublime](https://img.shields.io/badge/Sublime-0078D6?style=flat-square&logo=Sublime&logoColor=white)-->
 
 <!-- Gif -->
 <div align="center">
@@ -114,7 +114,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <br>
 
 <!-- metrics basic information -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/base_metrics.svg" alt="base metrics"/></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/base_metrics.svg" alt="base metrics"/></div>
 <br>
 
 <!-- Dynamic Quotes -->
@@ -132,7 +132,58 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 </div>
 
 <br>
-<br>
+
+<!-- Wakatime Statistics -->
+<table align="center">
+<tr>
+<td valign="top">  
+  
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    257 commits    ██████████░░░░░░░░░░░░░░░   40.86% 
+🌆 Daytime    161 commits    ██████░░░░░░░░░░░░░░░░░░░   25.6% 
+🌃 Evening    136 commits    █████░░░░░░░░░░░░░░░░░░░░   21.62% 
+🌙 Night      75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.92%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
+Tuesday      79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.56% 
+Wednesday    115 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.28% 
+Thursday     52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.27% 
+Friday       168 commits    ██████░░░░░░░░░░░░░░░░░░░   26.71% 
+Saturday     68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
+Sunday       64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.17%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/India
+
+💬 Programming Languages: 
+Text                     5 mins              █████████████████████████   100.0%
+
+🔥 Editors: 
+VS Code                  5 mins              █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  5 mins              █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 17/06/2022 01:58:24 UTC
+<!--END_SECTION:waka-->
+</td>
+</tr>
+</table>
 
 ## My Experiences🙌🏼
 
@@ -146,14 +197,14 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>]:#
 
 
-## Some of my Github Public Stats
+<!--## Some of my Github Public Stats
 
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=tarunbisht-24&show_icons=true&theme=radical&line_height=33 &nbsp; &nbsp; &nbsp; &nbsp;">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tarunbisht-24&hide_langs_below=.25&theme=radical">
   <br>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunbisht-24&theme=highcontrast&hide_border=true" alt="tarunbisht-24"/>
-</p>
+</p>-->
 
 <img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/img/coffee.png" align="right" height="275" />
 
