@@ -153,10 +153,6 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 - [MLH Hackathons](https://mlh.io/): Participated in [Local Hack Day: Build](https://organize.mlh.io/participants/events/6072-local-hack-day-build) and [Local Hack Day: Share](https://organize.mlh.io/participants/events/6430-local-hack-day-share).
 - [GoogleCloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/enrol-in-the-program/#content): Completed Labs and challenges in [Qwiklabs](https://www.qwiklabs.com/public_profiles/27c0ba2b-577b-4d32-a506-64591e89e383).
 
-[<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>]:#
-
-
 <!--## Some of my Github Public Stats
 
 <p align="center">
