@@ -7,7 +7,13 @@
 
 <!-- Coding Gif -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+
 <br>
+
+---
+### Spotify Playing 🎧
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6qhggfwe6s2tmqa0mz5ynmrg6&width={width})
+---
 
 ### Hi there, I'm Tarun Bisht 👋🏼👨🏻‍💻
 
@@ -193,9 +199,6 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <br>
 <br>
 [![Profile last updated](https://img.shields.io/github/last-commit/tarunbisht-24/tarunbisht_24/main?label=Last%20updated&style=flat)](https://github.com/tarunbisht-24/tarunbisht_24/commits)
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-tarunbisht-24.vercel.app/api/spotify-playing" alt ="tarunbisht Spotify Playing" width="350"/>](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2)
 
 <!-- Snake code contribution diagram -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/contribution-snake/github-contribution-grid-snake.svg" /></div>
