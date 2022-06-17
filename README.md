@@ -139,47 +139,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <td valign="top">  
   
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning    257 commits    ██████████░░░░░░░░░░░░░░░   40.86% 
-🌆 Daytime    161 commits    ██████░░░░░░░░░░░░░░░░░░░   25.6% 
-🌃 Evening    136 commits    █████░░░░░░░░░░░░░░░░░░░░   21.62% 
-🌙 Night      75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.92%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
-Tuesday      79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.56% 
-Wednesday    115 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.28% 
-Thursday     52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.27% 
-Friday       168 commits    ██████░░░░░░░░░░░░░░░░░░░   26.71% 
-Saturday     68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
-Sunday       64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.17%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/India
-
-💬 Programming Languages: 
-Text                     5 mins              █████████████████████████   100.0%
-
-🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 17/06/2022 01:58:24 UTC
 <!--END_SECTION:waka-->
 </td>
 </tr>
@@ -213,11 +173,7 @@ Windows                  5 mins              ███████████�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#753](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/753) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-2. 💪 Opened PR [#1147](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1147) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. ❗️ Opened issue [#1146](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1146) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 💪 Opened PR [#772](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/772) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-5. ❗️ Opened issue [#753](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/753) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+
 <!--END_SECTION:activity-->
 
 
