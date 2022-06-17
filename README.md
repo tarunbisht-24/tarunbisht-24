@@ -12,7 +12,9 @@
 
 ---
 ### Spotify Playing 🎧
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6qhggfwe6s2tmqa0mz5ynmrg6)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6qhggfwe6s2tmqa0mz5ynmrg6&unique={true|1|on|yes})
+
 ---
 
 ### Hi there, I'm Tarun Bisht 👋🏼👨🏻‍💻
