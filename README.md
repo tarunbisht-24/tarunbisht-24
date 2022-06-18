@@ -36,16 +36,6 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
 
-<!-- GitHub Activity Graph -->
-### <h2 align="center">My Contribution Graph</h2>
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=tarunbisht-24&theme=dracula&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
 ## Technologies⚙️
 
 💪 Currently Learning: 
@@ -138,6 +128,18 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=tarunbisht-24&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunbisht-24&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
+
+<br>
+
+<!-- GitHub Activity Graph -->
+### <h2 align="center">My Contribution Graph</h2>
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <img src="https://activity-graph.herokuapp.com/graph?username=tarunbisht-24&theme=dracula&bg_color=FF000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
