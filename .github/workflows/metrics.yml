@@ -1,7 +1,7 @@
 # Specific configuration document address https://github.com/lowlighter/metrics/blob/master/action.yml
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 
-name: GitHub metrics
+name: Metrics
 on:
   schedule: 
       - cron: "0 0 * * *"
