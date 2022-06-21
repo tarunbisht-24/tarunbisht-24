@@ -155,6 +155,18 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 </tr>
 </table>
 
+
+# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+
+<!-- just img -->
+<div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/photos/images/202110311913581.gif"/></div>
+
+<!-- plugin metrics -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
+  <img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/photos/images/202111021926704.png"/>
+</div>
+
 ## My Experiences🙌🏼
 
 - [GSSOC'21 Participant](https://gssoc.girlscript.tech/): Contributed to some projects, mainly based on Web Development.
