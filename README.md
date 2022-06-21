@@ -1,7 +1,7 @@
 <!-- Dynamic typing effects -->
 <h1 align="center">
   <a href="https://github.com/tarunbisht-24">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Tarun!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Tarun Bisht wish you a happy day!&center=true&size=27">
   </a>
 </h1>
 
@@ -164,6 +164,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
 </div>
+
 ## My Experiences🙌🏼
 
 - [GSSOC'21 Participant](https://gssoc.girlscript.tech/): Contributed to some projects, mainly based on Web Development.
