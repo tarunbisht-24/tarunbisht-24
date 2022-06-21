@@ -159,12 +159,11 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
 <!-- just img -->
-<div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/photos/images/202110311913581.gif"/></div>
+<div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
 
 <!-- plugin metrics -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/photos/images/202111021926704.png"/>
 </div>
 
 ## My Experiences🙌🏼
@@ -175,25 +174,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 - [MLH Hackathons](https://mlh.io/): Participated in [Local Hack Day: Build](https://organize.mlh.io/participants/events/6072-local-hack-day-build) and [Local Hack Day: Share](https://organize.mlh.io/participants/events/6430-local-hack-day-share).
 - [GoogleCloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/enrol-in-the-program/#content): Completed Labs and challenges in [Qwiklabs](https://www.qwiklabs.com/public_profiles/27c0ba2b-577b-4d32-a506-64591e89e383).
 
-<!--## Some of my Github Public Stats
-
-<p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=tarunbisht-24&show_icons=true&theme=radical&line_height=33 &nbsp; &nbsp; &nbsp; &nbsp;">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tarunbisht-24&hide_langs_below=.25&theme=radical">
-  <br>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunbisht-24&theme=highcontrast&hide_border=true" alt="tarunbisht-24"/>
-</p>-->
-
 <img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/src/coffee.png" align="right" height="275" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=tarunbisht-24l&color=blue)
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 
 ## Find me around the web :globe_with_meridians:
 
@@ -215,6 +196,8 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <br>
 <br>
 [![Profile last updated](https://img.shields.io/github/last-commit/tarunbisht-24/tarunbisht_24/main?label=Last%20updated&style=flat)](https://github.com/tarunbisht-24/tarunbisht_24/commits)
+
+![Profile Views](https://komarev.com/ghpvc/?username=tarunbisht-24l&color=blue)
 
 <!-- Snake code contribution diagram -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/contribution-snake/github-contribution-grid-snake.svg" /></div>
