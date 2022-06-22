@@ -1,7 +1,7 @@
 <!-- Dynamic typing effects -->
 <h1 align="center">
   <a href="https://github.com/tarunbisht-24">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Wishyouahappyday!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Wish%22you%22a%22happy522day522!&center=true&size=27">
   </a>
 </h1>
 
@@ -172,7 +172,6 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
 </div>
-
 <img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/src/coffee.png" align="right" height="275" />
 
 ## Find me around the web :globe_with_meridians:
