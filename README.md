@@ -1,7 +1,7 @@
 <!-- Dynamic typing effects -->
 <h1 align="center">
   <a href="https://github.com/tarunbisht-24">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Wish you a happy day!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Wishyouahappyday!&center=true&size=27">
   </a>
 </h1>
 
@@ -35,6 +35,14 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 - 📫 How to reach me: Use any of the [badges](#hi-there-im-tarun-bisht-) above
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
+
+## My Experiences🙌🏼
+
+- [GSSOC'21 Participant](https://gssoc.girlscript.tech/): Contributed to some projects, mainly based on Web Development.
+- [GWOC'21 Participant](https://github.com/tarunbisht-24/tarunbisht-24/blob/1b8bd67ce8bd631c43d2b283fec091105fe6a7d4/Memoji%20Images/GWOC_PARTICIPATION_CERTIFICATE.pdf): Contributed in various projects specially related to Web Dev field during 2 months of period.
+- [Hacktoberfest-2021&2022](https://hacktoberfest.digitalocean.com/): Participated as contributor and maintainer.
+- [MLH Hackathons](https://mlh.io/): Participated in [Local Hack Day: Build](https://organize.mlh.io/participants/events/6072-local-hack-day-build) and [Local Hack Day: Share](https://organize.mlh.io/participants/events/6430-local-hack-day-share).
+- [GoogleCloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/enrol-in-the-program/#content): Completed Labs and challenges in [Qwiklabs](https://www.qwiklabs.com/public_profiles/27c0ba2b-577b-4d32-a506-64591e89e383).
 
 ## Technologies⚙️
 
@@ -164,14 +172,6 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
 </div>
-
-## My Experiences🙌🏼
-
-- [GSSOC'21 Participant](https://gssoc.girlscript.tech/): Contributed to some projects, mainly based on Web Development.
-- [GWOC'21 Participant](https://github.com/tarunbisht-24/tarunbisht-24/blob/1b8bd67ce8bd631c43d2b283fec091105fe6a7d4/Memoji%20Images/GWOC_PARTICIPATION_CERTIFICATE.pdf): Contributed in various projects specially related to Web Dev field during 2 months of period.
-- [Hacktoberfest-2021&2022](https://hacktoberfest.digitalocean.com/): Participated as contributor and maintainer.
-- [MLH Hackathons](https://mlh.io/): Participated in [Local Hack Day: Build](https://organize.mlh.io/participants/events/6072-local-hack-day-build) and [Local Hack Day: Share](https://organize.mlh.io/participants/events/6430-local-hack-day-share).
-- [GoogleCloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/enrol-in-the-program/#content): Completed Labs and challenges in [Qwiklabs](https://www.qwiklabs.com/public_profiles/27c0ba2b-577b-4d32-a506-64591e89e383).
 
 <img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/src/coffee.png" align="right" height="275" />
 
