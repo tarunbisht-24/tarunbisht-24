@@ -152,7 +152,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <br>
 
 <!-- Wakatime Statistics -->
-<table align="center">
+<!--<table align="center">
 <tr>
 <td valign="top">  
   
@@ -162,7 +162,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
   
 </td>
 </tr>
-</table>
+</table>-->
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
