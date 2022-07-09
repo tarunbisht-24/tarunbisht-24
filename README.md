@@ -155,14 +155,14 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <table align="center">
 <tr>
 <td valign="top">  
-  
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-  
-</td>
+ </td>
 </tr>
 </table>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->  
+
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
