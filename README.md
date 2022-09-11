@@ -98,12 +98,8 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
 </div>
 
-<br>
-
 <!-- just img -->
 <img src="https://github.com/tarunbisht-24/tarunbisht-24/raw/main/src/header.png" alt="just-img"/>
-
-<br>
 
 <!-- profile-3d-contribution -->
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
@@ -151,18 +147,17 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 
 <br>
 
-<!-- Wakatime Statistics -->
-<table align="center">
-<tr>
-<td valign="top">  
- </td>
-</tr>
+<!-- Wakatime Graph-->
+<table>
+  <tr>
+    <td>
+      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500"/>
+    </td>
+    <td>
+      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500"/>
+    </td>
+  </tr>
 </table>
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->  
-
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
