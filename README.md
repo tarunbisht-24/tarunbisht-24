@@ -1,7 +1,7 @@
 <!-- Dynamic typing effects -->
 <h1 align="center">
   <a href="https://github.com/tarunbisht-24">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Tarun%20Wish%20you%20a%20happy%20day!&center=true&size=27">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=ccconsole.log(%22Hello%2C%20World!%22);TTarun%20Wish%20you%20a%20happy%20day!&center=true&size=27">
   </a>
 </h1>
 
