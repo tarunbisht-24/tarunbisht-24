@@ -147,16 +147,55 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 
 <br>
 
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500"/>
-    </td>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500"/>
-    </td>
-  </tr>
+<!-- wakatime 统计 -->
+<table align="center">
+<tr>
+<td valign="top">  
+  
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    258 commits    ██████████░░░░░░░░░░░░░░░   40.5% 
+🌆 Daytime    163 commits    ██████░░░░░░░░░░░░░░░░░░░   25.59% 
+🌃 Evening    140 commits    █████░░░░░░░░░░░░░░░░░░░░   21.98% 
+🌙 Night      76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.93%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
+Tuesday      82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.87% 
+Wednesday    114 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.9% 
+Thursday     56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.79% 
+Friday       167 commits    ██████░░░░░░░░░░░░░░░░░░░   26.22% 
+Saturday     73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.46% 
+Sunday       64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.05%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+ Last Updated on 11/09/2022 02:34:11 UTC
+<!--END_SECTION:waka-->
+</td>
+</tr>
 </table>
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
