@@ -1,7 +1,7 @@
 <!-- Dynamic typing effects -->
 <h1 align="center">
   <a href="https://github.com/tarunbisht-24">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=ccoonsole.log(%22Hello%2C%20World!%22);TTarun%20Wish%20you%20a%20happy%20day!&center=true&size=27">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=cccoonsole.log(%22Hello%2C%20World!%22);TTTarun%20Wish%20you%20a%20happy%20day!&center=true&size=27">
   </a>
 </h1>
 
@@ -60,7 +60,7 @@ I am a 3rd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 ![React](https://img.shields.io/badge/-React-1572B6?style=flat-square&logo=react)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![SQL](https://img.shields.io/badge/-SQL-1572B6?style=flat-square&logo=sql)
+<!--![SQL](https://img.shields.io/badge/-SQL-1572B6?style=flat-square&logo=sql)-->
 
 🧠 Plan to Study:
 
@@ -91,8 +91,8 @@ I am a 3rd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
+  <img alt="react" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" title="react">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" title="node">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
   <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
