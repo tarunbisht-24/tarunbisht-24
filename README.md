@@ -1,7 +1,7 @@
 <!-- Dynamic typing effects -->
 <h1 align="center">
   <a href="https://github.com/tarunbisht-24">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Tarun%20Wish%20you%20a%20happy%20day!&center=true&size=27">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=ccoonsole.log(%22Hello%2C%20World!%22);TTarun%20Wish%20you%20a%20happy%20day!&center=true&size=27">
   </a>
 </h1>
 
@@ -27,7 +27,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuchd.in/), pursuing my Bachelors in Computer Science, who is passionate about Open Source :octocat:, Web Development :atom:, Artificial Intelligence 🤖, Machine Learning 👨‍💻 and Competitive Coding 📊. I love to learn new stuff related to tech and contribute in any and every possible way.
+I am a 3rd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuchd.in/), pursuing my Bachelors in Computer Science, who is passionate about Open Source :octocat:, Web Development :atom:, Artificial Intelligence 🤖, Machine Learning 👨‍💻 and Competitive Coding 📊. I love to learn new stuff related to tech and contribute in any and every possible way.
 
 - 🌱 I’m currently learning [Web Development](https://www.udemy.com/course/the-web-developer-bootcamp/) and [DSA](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 - 👯 I’m looking to collaborate on any Web Development project which seems interesting or useful
@@ -60,7 +60,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 ![React](https://img.shields.io/badge/-React-1572B6?style=flat-square&logo=react)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-<!--![Database](https://img.shields.io/badge/-Database-1572B6?style=flat-square&logo=Database)-->
+![SQL](https://img.shields.io/badge/-SQL-1572B6?style=flat-square&logo=sql)
 
 🧠 Plan to Study:
 
@@ -153,46 +153,7 @@ I am a 2nd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <td valign="top">  
   
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning    258 commits    ██████████░░░░░░░░░░░░░░░   40.5% 
-🌆 Daytime    163 commits    ██████░░░░░░░░░░░░░░░░░░░   25.59% 
-🌃 Evening    140 commits    █████░░░░░░░░░░░░░░░░░░░░   21.98% 
-🌙 Night      76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.93%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
-Tuesday      82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.87% 
-Wednesday    114 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.9% 
-Thursday     56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.79% 
-Friday       167 commits    ██████░░░░░░░░░░░░░░░░░░░   26.22% 
-Saturday     73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.46% 
-Sunday       64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.05%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
- Last Updated on 11/09/2022 02:34:11 UTC
 <!--END_SECTION:waka-->
 </td>
 </tr>
