@@ -2,7 +2,7 @@
 <!-- Dynamic typing effects -->
   <div align="center">
     <a href="https://github.com/tarunbisht-24/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Tarun Bisht, I wish you a happy day!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Tarun, Wish you a happy day!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
