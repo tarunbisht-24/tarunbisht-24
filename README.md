@@ -1,16 +1,12 @@
-<div align="center">
-<!-- Dynamic typing effects -->
+ <!-- Dynamic Typing Effect -->
   <div align="center">
     <a href="https://github.com/tarunbisht-24/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Tarun, Wish you a happy day!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Tarun,Wish you a happy day!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
-
-<!-- Coding Gif -->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
-
-<br>
+<!-- Knock Code Pictures -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 
 ---
 ### Spotify Playing 🎧
