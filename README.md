@@ -1,9 +1,11 @@
+<div align="center">
 <!-- Dynamic typing effects -->
-<h1 align="center">
-  <a href="https://github.com/tarunbisht-24">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=ccconsole.log(%22Hello%2C%20World!%22);TTTarun%20Wish%20you%20a%20happy%20day!&center=true&size=27">
-  </a>
-</h1>
+  <div align="center">
+    <a href="https://github.com/tarunbisht-24/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Tarun Bisht, I wish you a happy day!&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
+
 
 <!-- Coding Gif -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
@@ -185,6 +187,7 @@ I am a 3rd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 </div>
 
 <p>Visit my profile and give a ⭐️ if you like it</p>
+</div>
 
 ⭐️ From [Tarun Bisht](https://github.com/tarunbisht-24)
 <br>
