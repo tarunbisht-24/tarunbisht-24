@@ -3,7 +3,7 @@
  <!-- Dynamic Typing Effect -->
   <div align="center">
     <a href="https://github.com/tarunbisht-24/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Tarun,Wish you a happy day!&center=true&size=32" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Tarun, Wish you a happy day!&center=true&size=24" alt="Typing SVG" />
     </a>
   </div>
 
@@ -12,14 +12,11 @@
 
 <!-- Profile Logo -->
   <div align="center">
-   [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)] 
- (https://www.instagram.com/tarunbisht_24/)
-[![Discord Badge](https://img.shields.io/badge/-Discord-0078FF?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Bujj#2750/)
-[![iTunes Badge](https://img.shields.io/badge/-iTunes-FF2B4B?style=flat&logo=iTunes&logoColor=white)](https://music.apple.com/in/playlist/duh/pl.u-EdAVklrIDdxoprY)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQvMx0IMgE02-gMTN8W4zog)
- <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=tarunbisht-24&label=Views&color=0e75b6&style=flat" alt="Visit Statistics"/>
+   
+   [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dumbtarun/) [![Discord Badge](https://img.shields.io/badge/-Discord-0078FF?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Bujj#2750/) [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2) [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQvMx0IMgE02-gMTN8W4zog)
+ 
+ <!-- Visitor Statistics Logo -->
+ [![Profile last updated](https://img.shields.io/github/last-commit/tarunbisht-24/tarunbisht_24/main?label=Last%20updated&style=flat)](https://github.com/tarunbisht-24/tarunbisht_24/commits)  ![Profile Views](https://komarev.com/ghpvc/?username=tarunbisht-24l&color=blue)
   </div>
 
 ---
@@ -194,7 +191,6 @@ I am a 3rd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 ⭐️ From [Tarun Bisht](https://github.com/tarunbisht-24)
 <br>
 <br>
-[![Profile last updated](https://img.shields.io/github/last-commit/tarunbisht-24/tarunbisht_24/main?label=Last%20updated&style=flat)](https://github.com/tarunbisht-24/tarunbisht_24/commits)  ![Profile Views](https://komarev.com/ghpvc/?username=tarunbisht-24l&color=blue)
 
 <!-- Snake code contribution diagram -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/contribution-snake/github-contribution-grid-snake.svg" /></div>
