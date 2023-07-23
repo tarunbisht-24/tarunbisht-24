@@ -1,9 +1,6 @@
-name: This repository has x 个 star y 个 forks
+name: Update Fork Star
 
 on:
-  push:
-    branches:
-      - master
   fork:
   watch:
     types:
@@ -20,4 +17,4 @@ jobs:
         uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
-          template: "tarunbisht-24 readme profile with <starCount> stars and <forkCount> forks 🎉"
+          template: "tarunbisht-24's profile with <starCount> stars and <forkCount> forks 🎉"
