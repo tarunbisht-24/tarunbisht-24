@@ -1,8 +1,9 @@
-name: GitHub-Profile-3D-Contrib
+name: 3D Contrib
 
 on:
-  schedule: 
+  schedule:
     - cron: "0 0 * * *"
+    # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
 
 jobs:
@@ -11,7 +12,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.5.0
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
@@ -20,5 +21,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m ":rocket: Update"
+          git commit -m "generated"
           git push
