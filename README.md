@@ -3,7 +3,7 @@
  <!-- Dynamic Typing Effect -->
   <div align="center">
     <a href="https://github.com/tarunbisht-24/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Tarun, Wish you a happy day!&center=true&size=24" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Tarun, Wish you a happy day!&center=true&size=26" alt="Typing SVG" />
     </a>
   </div>
 
@@ -14,6 +14,12 @@
   <div align="center">
    
    [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dumbtarun/) [![Discord Badge](https://img.shields.io/badge/-Discord-0078FF?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Bujj#2750/) [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2) [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQvMx0IMgE02-gMTN8W4zog)
+
+ [![Gmail Badge](https://img.shields.io/badge/-bishttarun2002@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bishttarun2002@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Tarun%20Bisht-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-bisht-38724b201/ "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-@tarunbisht_24-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/tarunbisht_24 "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-@tarunbisht_24-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tarunbisht_24 "Follow on Twitter")
+[![Whatsapp Badge](https://img.shields.io/badge/-Tarun-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9872779838?text=Hi!)
  
  <!-- Visitor Statistics Logo -->
  [![Profile last updated](https://img.shields.io/github/last-commit/tarunbisht-24/tarunbisht_24/main?label=Last%20updated&style=flat)](https://github.com/tarunbisht-24/tarunbisht_24/commits)  ![Profile Views](https://komarev.com/ghpvc/?username=tarunbisht-24l&color=blue)
@@ -27,12 +33,6 @@
 ---
 
 ### Hi there, I'm Tarun Bisht 👋🏼👨🏻‍💻
-
-[![Gmail Badge](https://img.shields.io/badge/-bishttarun2002@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bishttarun2002@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Tarun%20Bisht-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-bisht-38724b201/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-@tarunbisht_24-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/tarunbisht_24 "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-@tarunbisht_24-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tarunbisht_24 "Follow on Twitter")
-[![Whatsapp Badge](https://img.shields.io/badge/-Tarun-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9872779838?text=Hi!)
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
