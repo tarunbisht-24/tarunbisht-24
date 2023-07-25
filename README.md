@@ -31,7 +31,10 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6qhggfwe6s2tmqa0mz5ynmrg6&unique={true|1|on|yes})
 
 ---
+#  🙋 Hello
 
+<table>
+<tr><td>
 <!-- About me -->
 
 ### 🤺 About Me
@@ -48,6 +51,7 @@
 
 <tr>
 <td>
+</table>
 
 
 <!-- ### Hi there, I'm Tarun Bisht 👋🏼👨🏻‍💻
