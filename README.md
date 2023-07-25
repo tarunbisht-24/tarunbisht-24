@@ -32,7 +32,25 @@
 
 ---
 
-### Hi there, I'm Tarun Bisht 👋🏼👨🏻‍💻
+<!-- About me -->
+
+### 🤺 About Me
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+
+<p>&emsp;&emsp;Hello everyone, I am Tarun Bisht.</p>
+<p>&emsp;&emsp;Love programming, photography, reading, traveling.</p>
+<p>&emsp;&emsp;Passionate about computer science and IT Internet career, inspired to become an excellent independent developer.<p>
+<p>&emsp;&emsp;We are making the world a better place, building a perfect system through code reuse and extension.</p>
+<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+</td></tr>
+
+<tr>
+<td>
+
+
+<!-- ### Hi there, I'm Tarun Bisht 👋🏼👨🏻‍💻
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -51,7 +69,7 @@ I am a 3rd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 - [GWOC'21 Participant](https://github.com/tarunbisht-24/tarunbisht-24/blob/1b8bd67ce8bd631c43d2b283fec091105fe6a7d4/Memoji%20Images/GWOC_PARTICIPATION_CERTIFICATE.pdf): Contributed in various projects specially related to Web Dev field during 2 months of period.
 - [Hacktoberfest-2021&2022](https://hacktoberfest.digitalocean.com/): Participated as contributor and maintainer.
 - [MLH Hackathons](https://mlh.io/): Participated in [Local Hack Day: Build](https://organize.mlh.io/participants/events/6072-local-hack-day-build) and [Local Hack Day: Share](https://organize.mlh.io/participants/events/6430-local-hack-day-share).
-- [GoogleCloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/enrol-in-the-program/#content): Completed Labs and challenges in [Qwiklabs](https://www.qwiklabs.com/public_profiles/27c0ba2b-577b-4d32-a506-64591e89e383).
+- [GoogleCloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/enrol-in-the-program/#content): Completed Labs and challenges in [Qwiklabs](https://www.qwiklabs.com/public_profiles/27c0ba2b-577b-4d32-a506-64591e89e383). -->
 
 ## Technologies⚙️
 
