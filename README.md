@@ -225,10 +225,10 @@ I am a 3rd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
 <!-- just img -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+<img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/src/header.png" /></div>
 
 <!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
@@ -236,14 +236,14 @@ I am a 3rd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 
 <div align="center" >
 
-<!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Github-Stats-Terminal/github_stats.svg"/><br>
+<!-- Github-Stats-Terminal -->
+<img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/Github-Stats-Terminal/github_stats.svg"/><br>
   
-<!-- Quotes 名人名言 -->
+<!-- Quotes -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
   
-<!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+<!-- GitHub🏆 -->
+<img  src="https://github-profile-trophy.vercel.app/?username=tarunbisht-24&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
 
 
