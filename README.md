@@ -8,9 +8,11 @@
   </div>
 
 <!-- Knock Code Pictures -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+<img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/coding.gif" /><br>
 
 <!-- Profile Logo -->
+
+<!--  
   <div align="center">
    
    [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dumbtarun/) [![Discord Badge](https://img.shields.io/badge/-Discord-0078FF?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Bujj#2750/) [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2) [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQvMx0IMgE02-gMTN8W4zog)
@@ -20,52 +22,126 @@
 [![Telegram Badge](https://img.shields.io/badge/-@tarunbisht_24-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/tarunbisht_24 "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@tarunbisht_24-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tarunbisht_24 "Follow on Twitter")
 [![Whatsapp Badge](https://img.shields.io/badge/-Tarun-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9872779838?text=Hi!)
- 
- <!-- Visitor Statistics Logo -->
  [![Profile last updated](https://img.shields.io/github/last-commit/tarunbisht-24/tarunbisht_24/main?label=Last%20updated&style=flat)](https://github.com/tarunbisht-24/tarunbisht_24/commits)  ![Profile Views](https://komarev.com/ghpvc/?username=tarunbisht-24l&color=blue)
-  </div>
 
----
+ Snake Code Contribution Map
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/tarunbisht-24/tarunbisht-24/gh//profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+-->
+
 ### Spotify Playing 🎧
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6qhggfwe6s2tmqa0mz5ynmrg6&unique={true|1|on|yes})
 
----
 #  🙋 Hello
 
 <table>
 <tr><td>
-<!-- About me -->
 
+<!-- About me 关于我 -->
 ### 🤺 About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
-<p>&emsp;&emsp;Hello everyone, I am Tarun Bisht.</p>
-<p>&emsp;&emsp;Love programming, photography, reading, traveling.</p>
-<p>&emsp;&emsp;Passionate about computer science and IT Internet career, inspired to become an excellent independent developer.<p>
-<p>&emsp;&emsp;We are making the world a better place, building a perfect system through code reuse and extension.</p>
+<p>&emsp;&emsp;大家好，我是小孙同学。</p>
+<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的独立开发者。</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
 
 <tr>
 <td>
-</table>
+  
+### 🏢 Work Experience
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+
+- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— Now
+  
+  - 工作岗位：Web前端开发工程师（初级）
+  - 工作内容：GIS相关
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
+
+- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
+  
+  - 工作岗位：Web前端开发实习生
+  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+
+</td>
+</tr>
+
+<tr><td>
+
+<!-- 近期博客 -->
+### 📃 Recent Blog
+  
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+
+<!-- START_SECTION:blog -->
+* <a href='https://blog.sunguoqi.com/archives/ohmyposh' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
+* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26
+* <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
+* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
+* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
+<!-- END_SECTION:blog -->
+
+</td></tr>
+
+<tr><td>
+
+### 🧠 Second Brain
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
+
+<!-- START_SECTION:brain -->
+* <a href='https://brain.sunguoqi.com/web/guide/history.html' target='_blank'>前端开发简史</a> - 2023-03-25
+* <a href='https://brain.sunguoqi.com/web/guide/learn-road.html' target='_blank'>前端学习路线</a> - 2023-03-26
+* <a href='https://brain.sunguoqi.com/dv/basic/data/31.html' target='_blank'>选择合适方法对数据进行处理</a> - 2023-07-27
+* <a href='https://brain.sunguoqi.com/dv/basic/data/32.html' target='_blank'>可视化数据处理的一般方法</a> - 2023-07-27
+* <a href='https://brain.sunguoqi.com/dv/basic/data/33.html' target='_blank'>如何处理多元变量</a> - 2023-07-27
+<!-- END_SECTION:brain -->
+
+</td></tr>
+
+<tr><td>
+
+### 🤾‍♂️ Funny Soul
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
+
+<!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
+* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+<!-- END_SECTION:douban -->
+
+</td></tr>
+
+<tr><td>
 
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tarunbisht-24&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tarunbisht-24&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tarunbisht-24&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
 </td></tr>
@@ -73,7 +149,49 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
+```text
+🌞 Morning                274 commits         █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+🌆 Daytime                428 commits         ████████░░░░░░░░░░░░░░░░░   30.20 % 
+🌃 Evening                507 commits         █████████░░░░░░░░░░░░░░░░   35.78 % 
+🌙 Night                  208 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   207 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Wednesday                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Thursday                 155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Friday                   356 commits         ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+Saturday                 147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Sunday                   177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 8 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.46 % 
+TypeScript               5 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Vue.js                   2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+HTML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+
+🔥 Editors: 
+VS Code                  19 hrs 52 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  18 hrs 17 mins      ███████████████████████░░   92.04 % 
+Mac                      1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+```
+
+
+ Last Updated on 30/07/2023 01:24:08 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
@@ -86,76 +204,33 @@
 
 ```mermaid
 mindmap
- root((Tarun Bisht))
-    programming
-      web development
-      Web Crawler
-      artificial intelligence
-    photography
-      Humanities
-      architecture
-      landscape
-    travel
-      suzhou
-      Nanjing
-      Chuzhou
-      Hefei
-      Shou County
-    read
-      Biography
-      personal growth
-      social culture
-      psychology
-      computer technology
+  root((小孙同学))
+    编程
+      Web开发
+      网络爬虫
+      人工智能
+    摄影
+      人文
+      建筑
+      风景
+    旅行
+      苏州
+      南京
+      滁州
+      合肥
+      寿县
+    阅读
+      人物传记
+      个人成长
+      社会文化
+      心理
+      计算机技术
 ```
 
-<!-- just img 图片 -->
+<!-- Just Image -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- ### Hi there, I'm Tarun Bisht 👋🏼👨🏻‍💻
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-I am a 3rd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuchd.in/), pursuing my Bachelors in Computer Science, who is passionate about Open Source :octocat:, Web Development :atom:, Artificial Intelligence 🤖, Machine Learning 👨‍💻 and Competitive Coding 📊. I love to learn new stuff related to tech and contribute in any and every possible way.
-
-- 🌱 I’m currently learning [Web Development](https://www.udemy.com/course/the-web-developer-bootcamp/) and [DSA](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
-- 👯 I’m looking to collaborate on any Web Development project which seems interesting or useful
-- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
-- 📫 How to reach me: Use any of the [badges](#hi-there-im-tarun-bisht-) above
-- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
-
-## My Experiences🙌🏼
-
-- [GSSOC'21 Participant](https://gssoc.girlscript.tech/): Contributed to some projects, mainly based on Web Development.
-- [GWOC'21 Participant](https://github.com/tarunbisht-24/tarunbisht-24/blob/1b8bd67ce8bd631c43d2b283fec091105fe6a7d4/Memoji%20Images/GWOC_PARTICIPATION_CERTIFICATE.pdf): Contributed in various projects specially related to Web Dev field during 2 months of period.
-- [Hacktoberfest-2021&2022](https://hacktoberfest.digitalocean.com/): Participated as contributor and maintainer.
-- [MLH Hackathons](https://mlh.io/): Participated in [Local Hack Day: Build](https://organize.mlh.io/participants/events/6072-local-hack-day-build) and [Local Hack Day: Share](https://organize.mlh.io/participants/events/6430-local-hack-day-share).
-- [GoogleCloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/enrol-in-the-program/#content): Completed Labs and challenges in [Qwiklabs](https://www.qwiklabs.com/public_profiles/27c0ba2b-577b-4d32-a506-64591e89e383). -->
-
-## Technologies⚙️
-
-<!--  skill badge -->
+<!--  Skill Badge -->
 💪 Currently Learning: 
 
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
@@ -319,7 +394,8 @@ I am a 3rd-year Undergaduate Student at [Chandigarh Unviersity](https://www.cuch
 ----
 
 <div>
-  <h3>Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3>Connect with me<img align="cen
+                      ter" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 
 <p>Visit my profile and give a ⭐️ if you like it</p>
