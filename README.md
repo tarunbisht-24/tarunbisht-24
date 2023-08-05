@@ -8,35 +8,25 @@
   </div>
 
 <!-- Knock Code Pictures -->
-<img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/coding.gif" /><br>
-
-<!-- Profile Logo -->
-
-<!--  
-  <div align="center">
-   
-   [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dumbtarun/) [![Discord Badge](https://img.shields.io/badge/-Discord-0078FF?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Bujj#2750/) [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2) [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQvMx0IMgE02-gMTN8W4zog)
-
- [![Gmail Badge](https://img.shields.io/badge/-bishttarun2002@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bishttarun2002@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Tarun%20Bisht-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-bisht-38724b201/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-@tarunbisht_24-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/tarunbisht_24 "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-@tarunbisht_24-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tarunbisht_24 "Follow on Twitter")
-[![Whatsapp Badge](https://img.shields.io/badge/-Tarun-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9872779838?text=Hi!)
- [![Profile last updated](https://img.shields.io/github/last-commit/tarunbisht-24/tarunbisht_24/main?label=Last%20updated&style=flat)](https://github.com/tarunbisht-24/tarunbisht_24/commits)  ![Profile Views](https://komarev.com/ghpvc/?username=tarunbisht-24l&color=blue)
-
- Snake Code Contribution Map
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/tarunbisht-24/tarunbisht-24/gh//profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
--->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 
 ### Spotify Playing 🎧
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6qhggfwe6s2tmqa0mz5ynmrg6&unique={true|1|on|yes})
+
+<!-- Profile Logo -->  
+  <div align="center">
+   
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dumbtarun/) [![Discord Badge](https://img.shields.io/badge/-Discord-0078FF?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Bujj#2750/) [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQvMx0IMgE02-gMTN8W4zog)
+[![Gmail Badge](https://img.shields.io/badge/-bishttarun2002@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bishttarun2002@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Tarun%20Bisht-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-bisht-38724b201/ "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-@tarunbisht_24-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/tarunbisht_24 "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-@tarunbisht_24-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tarunbisht_24 "Follow on Twitter")
+[![Whatsapp Badge](https://img.shields.io/badge/-Tarun-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9872779838?text=Hi!)
+[![Profile last updated](https://img.shields.io/github/last-commit/tarunbisht-24/tarunbisht_24/main?label=Last%20updated&style=flat)](https://github.com/tarunbisht-24/tarunbisht_24/commits)  ![Profile Views](https://komarev.com/ghpvc/?username=tarunbisht-24l&color=blue)
+ 
+</div>
 
 #  🙋 Hello
 
