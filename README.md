@@ -25,7 +25,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tarunbisht_24 "Follow on Twitter")
 [![Discord Badge](https://img.shields.io/badge/-Discord-0078FF?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Bujj#2750/) [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQvMx0IMgE02-gMTN8W4zog)
-![Profile Views](https://komarev.com/ghpvc/?username=tarunbisht-24&label=Views&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=tarunbisht-24l&color=blue)
  
    </div>
 </div>
@@ -201,9 +201,9 @@ root((Tarun Bisht))
 
 <!-- Awesome Repo -->
 <a href="https://github.com/tarunbisht-24/Candy-Museum">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarunbisht-24&repo=Candy-Museum&theme=dark&bg_color=121212&hide_border=true" /</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarunbisht-24&repo=Candy-Museum&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/tarunbisht-24/Online-Voting-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarunbisht-24&repo=Online-Voting-System&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarunbisht-24N&repo=Online-Voting-System&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
 
 <!-- Wakatime Graph-->
 <table>
