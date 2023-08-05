@@ -25,9 +25,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tarunbisht_24 "Follow on Twitter")
 [![Discord Badge](https://img.shields.io/badge/-Discord-0078FF?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Bujj#2750/) [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQvMx0IMgE02-gMTN8W4zog)
-[![Profile last updated](https://img.shields.io/github/last-commit/tarunbisht-24/tarunbisht_24/main?label=Last%20updated&style=flat)](https://github.com/tarunbisht-24/tarunbisht_24/commits)
 ![Profile Views](https://komarev.com/ghpvc/?username=tarunbisht-24l&color=blue)
  
+   </div>
 </div>
 
 #  🙋 Hello
@@ -35,20 +35,22 @@
 <table>
 <tr><td>
 
-<!-- About me 关于我 -->
+<!-- About Me -->
 ### 🤺 About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
-
+<div>
 <p>&emsp;&emsp;Hello everyone, I am Tarun Bisht. </p>
 <p>&emsp;&emsp;Love programming, photography, reading, traveling. </p>
 <p>&emsp;&emsp;Passionate about computer science and IT and Internet careers, inspired to become an excellent independent developer. </p>
 <p>&emsp;&emsp; We are making the world a better place, building a perfect system through code reuse and extension. </p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+</div>
 
 </td></tr>
 
-<tr><td>
+<tr>
+<td>
 
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
@@ -368,9 +370,8 @@ mindmap
 </table>
 
 
-
+[![Profile last updated](https://img.shields.io/github/last-commit/tarunbisht-24/tarunbisht_24/main?label=Last%20updated&style=flat)](https://github.com/tarunbisht-24/tarunbisht_24/commits)
 img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
-</div>
