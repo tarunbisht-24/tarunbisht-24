@@ -38,7 +38,8 @@
 <!-- About Me -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
+
 <p>&emsp;&emsp;Hello everyone, I am Tarun Bisht. </p>
 <p>&emsp;&emsp;Love programming, photography, reading, traveling. </p>
 <p>&emsp;&emsp;Passionate about computer science and IT and Internet careers, inspired to become an excellent independent developer. </p>
@@ -203,7 +204,7 @@ root((Tarun Bisht))
 <a href="https://github.com/tarunbisht-24/Candy-Museum">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=tarunbisht-24&repo=Candy-Museum&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/tarunbisht-24/Online-Voting-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarunbisht-24N&repo=Online-Voting-System&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarunbisht-24&repo=Online-Voting-System&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
 
 <!-- Wakatime Graph-->
 <table>
