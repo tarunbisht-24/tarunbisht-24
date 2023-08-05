@@ -25,7 +25,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tarunbisht_24 "Follow on Twitter")
 [![Discord Badge](https://img.shields.io/badge/-Discord-0078FF?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Bujj#2750/) [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQvMx0IMgE02-gMTN8W4zog)
-![Profile Views](https://komarev.com/ghpvc/?username=tarunbisht-24l&color=blue)
+![Views](https://komarev.com/ghpvc/?username=tarunbisht-24l&color=blue)
  
    </div>
 </div>
@@ -113,7 +113,6 @@ root((Tarun Bisht))
 
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![Java Badge](https://img.shields.io/badge/java-3776AB?logo=Java&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -139,7 +138,6 @@ root((Tarun Bisht))
 🧰 Commonly used tools:
 
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
-![iPhone Badge](https://img.shields.io/badge/iPhone-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -203,8 +201,7 @@ root((Tarun Bisht))
 
 <!-- Awesome Repo -->
 <a href="https://github.com/tarunbisht-24/Candy-Museum">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarunbisht-24&repo=Candy-Museum&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/tarunbisht-24/Online-Voting-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarunbisht-24&repo=Candy-Museum&theme=dark&bg_color=121212&hide_border=true" /</a><a href="https://github.com/tarunbisht-24/Online-Voting-System">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=tarunbisht-24&repo=Online-Voting-System&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
 
 <!-- Wakatime Graph-->
