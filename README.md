@@ -276,4 +276,4 @@ root((Tarun Bisht))
 </picture>
 </div>
 
-[![Profile last updated](https://img.shields.io/github/last-commit/tarunbisht-24/tarunbisht_24/main?label=Last%20updated&style=flat)](https://github.com/tarunbisht-24/tarunbisht_24/commits)
+[![Profile last updated](https://img.shields.io/github/last-commit/tarunbisht-24/tarunbisht_24/main?label=Last%20updated&style=flat)](https://github.com/tarunbisht-24/tarunbisht-24/commits)
