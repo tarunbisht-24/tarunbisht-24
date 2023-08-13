@@ -51,25 +51,17 @@ jobs:
           plugin_people_limit: 500
           plugin_people_size: 36
           plugin_people_types: followers, following     
-   
-      # 📆 Commit calendar
-      - name: Full history calendar
+      
+      # 🏆 Achievements
+      - name: Compact display
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics/calendar.full.svg
+          filename: github-metrics/achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
-
-      # 📰 Recent activity
-      - name: Recent activity
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
