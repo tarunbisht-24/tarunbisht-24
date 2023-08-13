@@ -1,13 +1,10 @@
-name: Update Fork Star
+name: "This repo has x stars y forks"
 
 on:
+  push:
   fork:
   watch:
-    types:
-      - started
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    types: [started]
 
 jobs:
   update:
@@ -16,5 +13,5 @@ jobs:
       - name: This repo has x stars y forks
         uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
         with:
-          token: ${{ secrets.ACCESS_TOKEN }}
-          template: "sun0225SUN's profile with <starCount> stars and <forkCount> forks 🎉"
+          token: ${{ secrets.TOKEN }}
+          template: "🤖 A GitHub Action to update this sentence for your repository: <auto>."
