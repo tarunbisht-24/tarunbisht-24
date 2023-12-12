@@ -20,10 +20,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bishttarun2002@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarunbisht24/ "Connect on LinkedIn")
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9872779838?text=Hi!)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dumbtarun/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mainlytarun/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/Tarun_Bisht_20BCS6130 "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tarunbisht_24 "Follow on Twitter")
-[![Discord Badge](https://img.shields.io/badge/-Discord-0078FF?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Bujj#2750/) [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0078FF?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Bujj#2750/)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQvMx0IMgE02-gMTN8W4zog)
 ![Profile Views](https://komarev.com/ghpvc/?username=tarunbisht-24l&color=blue)
  
