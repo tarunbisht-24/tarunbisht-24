@@ -125,30 +125,84 @@ Mac                      36 hrs 2 mins       ███████████�
 
 <div align="center" >
 
-```mermaid
-mindmap
-root((Tarun Bisht))
-    Programming
-      Web Development
-      Blockchain
-      Artificial Intelligence
-    Photography
-      Humanities
-      Architecture
-      Landscape
-    Travel
-      Chandigarh
-      Uttrakhand
-      Delhi
-      Himachal Pradesh
-      Madhya Pradesh
-    Read
-      Biography
-      Personal Growth
-      Social Culture
-      Psychology
-      Computer Technology
-```
+<!-- Run Gif -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+
+<!-- Joke Card -->
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
+    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+  </picture>
+</div>
+
+<!-- Github Readme Streak Stats -->
+<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tarunbisht-24&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tarunbisht-24&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=default&hide_border=true" />
+</picture>  
+<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+
+<!-- Github Metrics -->
+<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
+<img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/github-metrics/base.svg" />&emsp;
+<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
+
+<!-- GitHub Activity Graph GitHub -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tarunbisht-24&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tarunbisht-24&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunbisht-24&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
+</div>
+
+<!-- ########################################## Split ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<div align="center" >
+
+<!-- Bicycle Gif -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
+
+<!-- Github Stats Terminal -->
+<img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/Github-Stats-Terminal/github_stats.svg"/><br>
+
+<!-- Dynamic Quotes -->
+<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
+
+<!-- GitHub Trophy -->
+<div><img src="https://github-profile-trophy.vercel.app/?username=tarunbisht-24&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+
+<!-- GitHub Statistics -->
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tarunbisht-24&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tarunbisht-24&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
+
+<!-- Awesome Repo -->
+<a href="https://github.com/tarunbisht-24/Candy-Museum">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarunbisht-24&repo=Candy-Museum&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/tarunbisht-24/Online-Voting-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarunbisht-24&repo=Online-Voting-System&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+
+<!-- Wakatime Graph-->
+<table>
+  <tr>
+    <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/running/assets/github_2023.svg" /></a><br></td>
+  </tr>
+</table>
+</div>
+
+<!-- ########################################## Split ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<div align="center" >
 
 <!-- Man Lifting Image -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
@@ -224,6 +278,7 @@ root((Tarun Bisht))
 
 <!-- Profile-3d-Contribution -->
 <img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/profile-3d-contrib/profile-night-rainbow.svg" />
+
 </div>
 
 <!-- ######################################### Split ######################################### -->
@@ -231,32 +286,9 @@ root((Tarun Bisht))
 
 <div align="center" >
 
-<!-- Github Stats Terminal -->
-<img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/Github-Stats-Terminal/github_stats.svg"/><br>
-  
-<!-- Dynamic Quotes -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
-  
-<!-- GitHub Tophies -->
-<img  src="https://github-profile-trophy.vercel.app/?username=tarunbisht-24&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
-<!-- GitHub Statistics -->
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=tarunbisht-24&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunbisht-24&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
-<!-- Awesome Repo -->
-<a href="https://github.com/tarunbisht-24/Candy-Museum">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarunbisht-24&repo=Candy-Museum&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/tarunbisht-24/Online-Voting-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarunbisht-24&repo=Online-Voting-System&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
 
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/running/assets/github_2023.svg" /></a><br></td>
-  </tr>
-</table>
-</div>
 
 <!-- ######################################### Split ######################################### -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
@@ -266,8 +298,7 @@ root((Tarun Bisht))
 <!-- Run GIF -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
 
-<!-- Joke Card -->
-<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
+
 
 <!-- Github Readme Streak Stats -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
@@ -279,12 +310,6 @@ root((Tarun Bisht))
 <img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/github-metrics/base.svg" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
 
-<!-- GitHub Activity Graph GitHub -->
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunbisht-24&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
-  </tr>
-</table>
 
 </div>
 
