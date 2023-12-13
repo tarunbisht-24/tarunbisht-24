@@ -48,21 +48,22 @@
 
 </td></tr>
 
-<tr><td>
 
+<tr><td>
+ 
 <!-- Wakatime -->
 ### 📊 WakaTime
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tarunbisht-24&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tarunbisht-24&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tarunbisht-24&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
 </td></tr>
@@ -70,10 +71,54 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+**I'm an Early 🐤** 
 
+```text
+🌞 Morning                420 commits         ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+🌆 Daytime                559 commits         ████████░░░░░░░░░░░░░░░░░   30.56 % 
+🌃 Evening                558 commits         ████████░░░░░░░░░░░░░░░░░   30.51 % 
+🌙 Night                  292 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   259 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Tuesday                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Wednesday                219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Thursday                 219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Friday                   505 commits         ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+Saturday                 180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Sunday                   265 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Vue.js                   15 hrs 46 mins      ███████████░░░░░░░░░░░░░░   43.76 % 
+Markdown                 4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+YAML                     4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+TypeScript               2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+JSON                     2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+
+🔥 Editors: 
+VS Code                  34 hrs 33 mins      ████████████████████████░   95.88 % 
+Obsidian                 1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+
+💻 Operating System: 
+Mac                      36 hrs 2 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 12/12/2023 01:20:24 UTC
+<!--END_SECTION:waka-->
+  
 </td></tr>
 </table>
+
 
 <!-- ######################################### Split ######################################### -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
