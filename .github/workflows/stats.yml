@@ -31,6 +31,7 @@ jobs:
         with: 
           node-version: ${{ matrix.node-version }}
           cache: 'npm'
+          cache-dependency-path: tarunbisht-24/package-lock.json
 
       # Install requirements
       - name: Install requirements
