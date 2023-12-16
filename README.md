@@ -172,9 +172,6 @@ Mac                      36 hrs 2 mins       ███████████�
 <!-- Bicycle Gif -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
 
-<!-- Github Stats Terminal -->
-<img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/Github-Stats-Terminal/github_stats.svg"/><br>
-
 <!-- Dynamic Quotes -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 
