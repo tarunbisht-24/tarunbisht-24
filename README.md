@@ -302,11 +302,11 @@ Mac                      36 hrs 2 mins       ███████████�
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
 
 <!-- Snake Code Contribution Map -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/profile-snake-contrib/github-contribution-grid-snake.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 [![Profile last updated](https://img.shields.io/github/last-commit/tarunbisht-24/tarunbisht_24/main?label=Last%20updated&style=flat)](https://github.com/tarunbisht-24/tarunbisht-24/commits)
