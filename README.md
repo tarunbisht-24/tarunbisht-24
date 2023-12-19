@@ -8,7 +8,7 @@
   </div>
 
 <!-- Knock Code GIF -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+<img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/coding.gif" /><br>
 
 ### Spotify Playing 🎧
 
@@ -38,7 +38,7 @@
 <!-- About Me -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/technologist.png" />
 
 <p>&emsp;&emsp;Hello everyone, I am Tarun Bisht. </p>
 <p>&emsp;&emsp;Love programming, photography, reading, traveling. </p>
@@ -121,12 +121,12 @@ Mac                      36 hrs 2 mins       ███████████�
 
 
 <!-- ######################################### Split ######################################### -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/hr.gif" />
 
 <div align="center" >
 
 <!-- Run Gif -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/man_run.png" width="250" height="250" />
 
 <!-- Joke Card -->
 <div>
@@ -138,18 +138,18 @@ Mac                      36 hrs 2 mins       ███████████�
 </div>
 
 <!-- Github Readme Streak Stats -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
+<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tarunbisht-24&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tarunbisht-24&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunbisht-24&theme=default&hide_border=true" />
 </picture>  
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/right.png" />
 
 <!-- Github Metrics -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
+<img width="150" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/cxyduck.gif" />&emsp;
 <img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/github-metrics/base.svg" />&emsp;
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
+<img width="150" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub -->
 <table>
@@ -165,12 +165,12 @@ Mac                      36 hrs 2 mins       ███████████�
 </div>
 
 <!-- ########################################## Split ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/hr.gif" />
 
 <div align="center" >
 
 <!-- Bicycle Gif -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/mb.png" width="250" height="250" />
 
 <!-- Dynamic Quotes -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
@@ -199,12 +199,12 @@ Mac                      36 hrs 2 mins       ███████████�
 </div>
 
 <!-- ########################################## Split ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/hr.gif" />
 
 <div align="center" >
 
 <!-- Man Lifting Image -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  Skill Badge -->
 💪 Currently Learning: 
@@ -263,17 +263,17 @@ Mac                      36 hrs 2 mins       ███████████�
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- GIF -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/react.webp">
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/github.webp">
 
 <!-- Header Image -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+<img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/icon.png" />
 
 <!-- Profile-3d-Contribution -->
 <img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/profile-3d-contrib/profile-night-rainbow.svg" />
@@ -281,13 +281,13 @@ Mac                      36 hrs 2 mins       ███████████�
 </div>
 
 <!-- ######################################### Split ######################################### -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/hr.gif" />
 
 <!-- GitHub metrics -->
 <div align="center">
 
 <!-- Robotic Image -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+<img width="36%" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/githubgif.gif" />
 
 <!-- Followers and Following -->
 <table>
@@ -299,7 +299,7 @@ Mac                      36 hrs 2 mins       ███████████�
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
 <!-- Rocket Image -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
+<img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/rocket.png"/>
 
 <!-- Snake Code Contribution Map -->
   <picture>
