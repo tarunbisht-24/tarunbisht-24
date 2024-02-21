@@ -183,10 +183,10 @@ Mac                      36 hrs 2 mins       ███████████�
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tarunbisht-24&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><be>
 
 <!-- Awesome Repo -->
-<a href="https://github.com/tarunbisht-24/Candy-Museum">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarunbisht-24&repo=Candy-Museum&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/tarunbisht-24/Online-Voting-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarunbisht-24&repo=Online-Voting-System&theme=dark&bg_color=121212&hide_border=true" /></a><br><be>
+<a href="https://github.com/tarunbisht-24/Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarunbisht-24&repo=Portfolio&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/tarunbisht-24/chatgpt-enhanced">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarunbisht-24&repo=chatgpt-enhanced&theme=dark&bg_color=121212&hide_border=true" /></a><br><be>
 
 <!-- Wakatime Graph-->
 <table>
