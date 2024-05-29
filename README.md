@@ -50,6 +50,20 @@
 
 
 <tr><td>
+
+### 🏢 Work Experience
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
+
+- [Let's Grow More](https://letsgrowmore.in/) &emsp; 📌 2022-05-01 —— 2022-08-01
+
+  - Position：Web Developer Intern
+  - Job Content：Frontend Engineer
+
+</td></tr>
+
+
+<tr><td>
  
 <!-- Wakatime -->
 ### 📊 WakaTime
