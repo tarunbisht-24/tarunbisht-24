@@ -53,7 +53,7 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/let's-grow-more.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/let's_grow_more.png" />
 
 - [Let's Grow More](https://letsgrowmore.in/) &emsp; 📌 2022-05-01 —— 2022-08-01
 
