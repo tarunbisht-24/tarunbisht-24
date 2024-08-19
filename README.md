@@ -40,11 +40,11 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/assets/images/technologist.png" />
 
-<p>&emsp;&emsp;Hello everyone, I am Tarun Bisht. </p>
-<p>&emsp;&emsp;Love programming, photography, reading, traveling. </p>
-<p>&emsp;&emsp;Passionate about computer science and IT and Internet careers, inspired to become </br> an excellent independent developer. </p>
-<p>&emsp;&emsp; We are making the world better, building a perfect system through code reuse and extension. </p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp; Hello everyone, I am Tarun Bisht. </p>
+<p>&emsp;&emsp; Love programming, photography, reading, traveling. </p>
+<p>&emsp;&emsp; Passionate about computer science and IT and Internet careers, inspired to become an excellent independent developer. </p>
+<p>&emsp;&emsp; We are improving the world, building a perfect system through code reuse and extension. </p>
+<p><strong>&emsp;&emsp; We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
 
