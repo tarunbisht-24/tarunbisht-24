@@ -42,8 +42,8 @@
 
 <p>&emsp;&emsp;Hello everyone, I am Tarun Bisht. </p>
 <p>&emsp;&emsp;Love programming, photography, reading, traveling. </p>
-<p>&emsp;&emsp;Passionate about computer science and IT and Internet careers, inspired to become an excellent independent developer. </p>
-<p>&emsp;&emsp; We are making the world a better place, building a perfect system through code reuse and extension. </p>
+<p>&emsp;&emsp;Passionate about computer science and IT and Internet careers, inspired to become </br> an excellent independent developer. </p>
+<p>&emsp;&emsp; We are making the world better, building a perfect system through code reuse and extension. </p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
@@ -58,7 +58,7 @@
 - [Let's Grow More](https://letsgrowmore.in/) &emsp; 📌 2022-05-01 —— 2022-08-01
 
   - Position：Web Developer Intern
-  - Job Content：Frontend Engineer
+  - Job Content: Frontend Engineer
 
 </td></tr>
 
