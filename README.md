@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6qhggfwe6s2tmqa0mz5ynmrg6&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=c97c1e00107e42ecb2456b37dd8a49a4&unique={true|1|on|yes})
 
 <!-- Profile Logo -->  
   <div align="center">
